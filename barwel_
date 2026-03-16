@@ -42,6 +42,7 @@ OnceSen00GoTemp"-25"5MhYhBoTemp"35"
 OnceKr00AhTemp"-80"CbBi
 OnceStack0019FlourineTemp"50"
 OnceBa00
+OnceAm00AoMhPressureLbs"70"
 Once00
 HeadTemp"55"ToTemp"15"©Temp"30"PMCA
 LogicIfOffThenOnceFeNoAndOnceEl000AntimonyTemp"10"
